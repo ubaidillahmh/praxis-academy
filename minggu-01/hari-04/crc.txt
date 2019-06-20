@@ -1,0 +1,11 @@
+class name : kos-kosan
+responsibilities  |  collaborators
+nama kos          |  rumah kos
+alamat
+harga
+
+class name : rumah kos
+responsibilities   | collaborators
+hari bayar          | bayar kos
+bayar
+org_bayar
