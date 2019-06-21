@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "praxis_7d189e26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SuppressWarningTest",
+            "request": "launch",
+            "mainClass": "SuppressWarningTest",
+            "projectName": "praxis_7d189e26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Base",
+            "request": "launch",
+            "mainClass": "Base",
+            "projectName": "praxis_7d189e26"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeprecatedTest",
+            "request": "launch",
+            "mainClass": "DeprecatedTest",
+            "projectName": "praxis_7d189e26"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BicycleDemo",
             "request": "launch",
             "mainClass": "BicycleDemo"
