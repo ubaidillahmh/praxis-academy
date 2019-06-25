@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <mahasiswa>
+      <nama>ubed</nama>
+      <nim>13650081</nim>
+   </mahasiswa>
+   <mahasiswa>
+      <nama>yono</nama>
+      <nim>10650011</nim>
+   </mahasiswa>
+</root>
