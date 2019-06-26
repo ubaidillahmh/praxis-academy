@@ -14,7 +14,6 @@ public class ReadJSONExample
     {
         //JSON parser object to parse read file
         JSONParser jsonParser = new JSONParser();
-         
         
         try(FileReader reader = new FileReader("C:/Users/Donut/Documents/praxis/minggu-02/hari-02/mhs.json"))
         {
