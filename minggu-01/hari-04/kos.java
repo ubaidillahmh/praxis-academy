@@ -34,7 +34,7 @@ class Bayarkos extends Koskosan{
 public class kos {
 
     public static void main(String[] args) {
-        Bayarkos ubed = new Bayarkos("Jumat", "Ubed", 340000);
+        Bayarkos ubed = new Bayarkos("Jumat", "Ubed", 350000);
         System.out.println(ubed.cekbayar());
     }
 }
